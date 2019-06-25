@@ -1,0 +1,22 @@
+{
+  "name": "gqlapolloserverexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Torres",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.4.8",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "graphql": "^14.2.1",
+    "mongoose": "^5.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}

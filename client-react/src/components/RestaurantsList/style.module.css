@@ -1,0 +1,22 @@
+div.root {  
+  background-color: #fefefe;  
+  margin: 16px;
+  padding: 16px;
+  box-shadow: 0 0 2px 0 #99999966;
+  border-radius: 8px;
+}
+
+h3.title {
+  margin: 0;
+  padding: 0;
+}
+
+ul.listroot {
+  margin: 16px 0;
+  padding: 0;  
+  list-style-type: none;    
+}
+
+li.listitem {  
+  
+}

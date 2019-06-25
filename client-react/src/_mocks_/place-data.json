@@ -1,0 +1,937 @@
+[
+  {
+    "formatted_address": "2544 E 83rd St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.74324402010728,
+          "l": 41.74594367989272
+        },
+        "ga": {
+          "j": -87.56320452989269,
+          "l": -87.56050487010725
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "170db33874378f24ebda7e7dbe39401d863fe9ae",
+    "name": "The New Look Restaurant and Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102688899832434444397/photos\">A Google User</a>"
+        ],
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ_y48fnIoDogRYv1VwF9iSPE",
+    "plus_code": {
+      "compound_code": "PCVQ+V7 Chicago, Illinois, USA",
+      "global_code": "86HJPCVQ+V7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ_y48fnIoDogRYv1VwF9iSPE",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 253,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "6638, 3655 East 106th Street, Chicago, IL 60617, United States",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70128382010728,
+          "l": 41.70398347989272
+        },
+        "ga": {
+          "j": -87.53571392989272,
+          "l": -87.53301427010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "eec72ee976fed80913b9b373793332220daa890c",
+    "name": "El Charro De San Francisco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104091036099519276560/photos\">Jorge Hernandez</a>"
+        ],
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJUyveJXrYEYgRzXVzZz8P-94",
+    "plus_code": {
+      "compound_code": "PF38+27 Chicago, Illinois, USA",
+      "global_code": "86HJPF38+27"
+    },
+    "rating": 4,
+    "reference": "ChIJUyveJXrYEYgRzXVzZz8P-94",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 210,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "8847 S Commercial Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.73274987010728,
+          "l": 41.73544952989273
+        },
+        "ga": {
+          "j": -87.55227882989271,
+          "l": -87.54957917010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "3a0dbf6fec3e2733a289e62b781b1d365bc033ef",
+    "name": "Cocula Restaurant Commercial",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105785143716542544492/photos\">Manuel Colón</a>"
+        ],
+        "width": 3024
+      }
+    ],
+    "place_id": "128",
+    "plus_code": {
+      "compound_code": "PCMX+JH Chicago, Illinois, USA",
+      "global_code": "86HJPCMX+JH"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJXzCKmuInDogRH-Cbgd7jOUY",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 787,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "9938 S Torrence Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.71284987010728,
+          "l": 41.71554952989272
+        },
+        "ga": {
+          "j": -87.56123387989271,
+          "l": -87.55853422010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "b6e0e39587c269f6e8fe7081e9b1541748acab4e",
+    "name": "Ova Flo Southern Style Cuisine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 529,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115739923054358411315/photos\">K Barnes</a>"
+        ],
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJi16O778nDogRXTC8u_bBgTE",
+    "plus_code": {
+      "compound_code": "PC7Q+MX Chicago, Illinois, USA",
+      "global_code": "86HJPC7Q+MX"
+    },
+    "rating": 4.2,
+    "reference": "ChIJi16O778nDogRXTC8u_bBgTE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 139,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "8734 S Stony Island Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.73418897010728,
+          "l": 41.73688862989273
+        },
+        "ga": {
+          "j": -87.5871465798927,
+          "l": -87.58444692010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "5c7412d5c78791c40f5c405b0d224b258ec5d2fe",
+    "name": "BJ's Market & Bakery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112101674809114417268/photos\">BJ&#39;s Market &amp; Bakery</a>"
+        ],
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJRWsDboIoDogRAazVC_SowpE",
+    "plus_code": {
+      "compound_code": "PCP7+6J Chicago, Illinois, USA",
+      "global_code": "86HJPCP7+6J"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJRWsDboIoDogRAazVC_SowpE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 431,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "8465 S Commercial Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.74038447010727,
+          "l": 41.74308412989272
+        },
+        "ga": {
+          "j": -87.55278742989276,
+          "l": -87.55008777010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "94b2f1e540d2bba2e5d35002714d442e08e96550",
+    "name": "El Jacalito",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116349283156756175733/photos\">Lamont Nichols</a>"
+        ],
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJuVSSBQ8oDogRY369He4zM14",
+    "plus_code": {
+      "compound_code": "PCRX+MF Chicago, Illinois, USA",
+      "global_code": "86HJPCRX+MF"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJuVSSBQ8oDogRY369He4zM14",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "6340, 4007 E 106th St, Chicago, IL 60617, United States",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70124002010728,
+          "l": 41.70393967989272
+        },
+        "ga": {
+          "j": -87.52793812989273,
+          "l": -87.5252384701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "ef23caee8ed96e96f3f2a7c20b908acae3bc910f",
+    "name": "Birrieria Ocotlan",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104868749914867136187/photos\">Marisela Aguilar</a>"
+        ],
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJj8Eyu2XYEYgR848JLhbsz1k",
+    "plus_code": {
+      "compound_code": "PF2F+X9 Chicago, Illinois, USA",
+      "global_code": "86HJPF2F+X9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJj8Eyu2XYEYgR848JLhbsz1k",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 295,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "3016 E 91st St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.72884677010727,
+          "l": 41.73154642989272
+        },
+        "ga": {
+          "j": -87.55186132989274,
+          "l": -87.54916167010731
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2efa3da4ba96c6f5f5f3ad6b8253007e82503d68",
+    "name": "Gomez Tacos & Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109686103640079445598/photos\">Myckeole Moore</a>"
+        ],
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJeeUQQ-MnDogR-Z86koc_l1Y",
+    "plus_code": {
+      "compound_code": "PCJX+4Q Chicago, Illinois, USA",
+      "global_code": "86HJPCJX+4Q"
+    },
+    "rating": 3.8,
+    "reference": "ChIJeeUQQ-MnDogR-Z86koc_l1Y",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 147,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "3516 118th St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.67985832010729,
+          "l": 41.68255797989273
+        },
+        "ga": {
+          "j": -87.53942562989272,
+          "l": -87.53672597010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2424be55db135078a11f722ad9e2884841ecc1ca",
+    "name": "Wendy's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110407659857718048632/photos\">Claudia Arroyo</a>"
+        ],
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJ6ZJHuJ3YEYgRTq02w1byRIc",
+    "plus_code": {
+      "compound_code": "MFJ6+GR Chicago, Illinois, USA",
+      "global_code": "86HJMFJ6+GR"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJ6ZJHuJ3YEYgRTq02w1byRIc",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 277,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "10550 S Ave B, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70168817010727,
+          "l": 41.70438782989272
+        },
+        "ga": {
+          "j": -87.52810602989274,
+          "l": -87.5254063701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "90349998e74350140c3af42357c0ebb9f09eabc7",
+    "name": "Burger King",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 958,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106945064803185653613/photos\">Burger King</a>"
+        ],
+        "width": 1028
+      }
+    ],
+    "place_id": "ChIJr2xVEVbfEYgRXfuSCxaHk3M",
+    "plus_code": {
+      "compound_code": "PF3F+66 Chicago, Illinois, USA",
+      "global_code": "86HJPF3F+66"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJr2xVEVbfEYgRXfuSCxaHk3M",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 200,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "10658 S Torrence Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.69974627010728,
+          "l": 41.70244592989273
+        },
+        "ga": {
+          "j": -87.56109067989269,
+          "l": -87.55839102010725
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "c7f457c4a9e8a5002ef186cef32cf851db2d487c",
+    "name": "Taco Mex",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113436649602378818663/photos\">A Google User</a>"
+        ],
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJO9HhYKInDogRsJvWU7ypQ1Q",
+    "plus_code": {
+      "compound_code": "PC2R+C2 Chicago, Illinois, USA",
+      "global_code": "86HJPC2R+C2"
+    },
+    "rating": 4.5,
+    "reference": "ChIJO9HhYKInDogRsJvWU7ypQ1Q",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 231,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "3259 E 95th St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.72138747010727,
+          "l": 41.72408712989272
+        },
+        "ga": {
+          "j": -87.5453380798927,
+          "l": -87.54263842010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "55f210bfb1a02fe5bb0b6a89396962a2b0f6222c",
+    "name": "Calumet Fisheries",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115853318933918254407/photos\">A Google User</a>"
+        ],
+        "width": 2448
+      }
+    ],
+    "place_id": "124",
+    "plus_code": {
+      "compound_code": "PFF4+3C Chicago, Illinois, USA",
+      "global_code": "86HJPFF4+3C"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJcYUwMPcnDogRozmDlaNgoyQ",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 567,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "10180 S Indianapolis Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70886642010728,
+          "l": 41.71156607989272
+        },
+        "ga": {
+          "j": -87.53402787989273,
+          "l": -87.5313282201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "61af85ecc9dd885c9b6fa7ba93ffbf9949580159",
+    "name": "Route 66 Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104317983584604197388/photos\">A Google User</a>"
+        ],
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJHycPz3PYEYgRY8K0fS2UqUQ",
+    "plus_code": {
+      "compound_code": "PF68+3W Chicago, Illinois, USA",
+      "global_code": "86HJPF68+3W"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJHycPz3PYEYgRY8K0fS2UqUQ",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 357,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "3522 E 106th St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70147407010728,
+          "l": 41.70417372989272
+        },
+        "ga": {
+          "j": -87.53928832989271,
+          "l": -87.53658867010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "53dcd0a1f01701299dd30ec1f59628fbadc74481",
+    "name": "Gorditas Loli's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114256399692841249965/photos\">Dalia De Alba</a>"
+        ],
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJrzzzRHjYEYgRbitAGVqtodI",
+    "plus_code": {
+      "compound_code": "PF36+5R Chicago, Illinois, USA",
+      "global_code": "86HJPF36+5R"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJrzzzRHjYEYgRbitAGVqtodI",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 204,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "2948 E 83rd St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.74346312010728,
+          "l": 41.74616277989272
+        },
+        "ga": {
+          "j": -87.55343887989272,
+          "l": -87.55073922010729
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "12c9c84b379afc67220f4096777e64941f53a2db",
+    "name": "Rocky's Pancake House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107817899995400318126/photos\">Floaty Bryant</a>"
+        ],
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJryTn1BEoDogRn8SUVReuRm4",
+    "plus_code": {
+      "compound_code": "PCVX+W5 Chicago, Illinois, USA",
+      "global_code": "86HJPCVX+W5"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJryTn1BEoDogRn8SUVReuRm4",
+    "types": [
+      "bakery",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 129,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "3559 E 106th St, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70132402010728,
+          "l": 41.70402367989272
+        },
+        "ga": {
+          "j": -87.53798482989271,
+          "l": -87.53528517010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "8aba84d85d412ddd09d089e11c87a6c0394704c9",
+    "name": "Nicky'z Gyros",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106630812156823554252/photos\">Miguel Trinidad</a>"
+        ],
+        "width": 3024
+      }
+    ],
+    "place_id": "123",
+    "plus_code": {
+      "compound_code": "PF37+28 Chicago, Illinois, USA",
+      "global_code": "86HJPF37+28"
+    },
+    "rating": 4.3,
+    "reference": "ChIJZXBTrnnYEYgR7aV_fkSVxfY",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "7900 S Exchange Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.75019187010727,
+          "l": 41.75289152989271
+        },
+        "ga": {
+          "j": -87.55437747989276,
+          "l": -87.55167782010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "dbd364fead8b9fbfdca848c62e4ee3e2977e97a9",
+    "name": "Star Sub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1932,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103679868003508851863/photos\">Ari Claton</a>"
+        ],
+        "width": 2576
+      }
+    ],
+    "place_id": "ChIJv8c89BYoDogRCP29khJqDT0",
+    "plus_code": {
+      "compound_code": "QC2W+JP Chicago, Illinois, USA",
+      "global_code": "86HJQC2W+JP"
+    },
+    "rating": 4,
+    "reference": "ChIJv8c89BYoDogRCP29khJqDT0",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "10359 S Torrence Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.70524942010727,
+          "l": 41.70794907989271
+        },
+        "ga": {
+          "j": -87.56090892989272,
+          "l": -87.55820927010728
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "04246459476f1711a4c2a55511fb3b67bbc4687d",
+    "name": "Hienie's Shrimp House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105582323527613538082/photos\">rosaluj</a>"
+        ],
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJuyFmYb0nDogRHttuw-bz7c0",
+    "plus_code": {
+      "compound_code": "PC4R+J6 Chicago, Illinois, USA",
+      "global_code": "86HJPC4R+J6"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJuyFmYb0nDogRHttuw-bz7c0",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 759,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "9480 S Ewing Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.72184092010728,
+          "l": 41.72454057989272
+        },
+        "ga": {
+          "j": -87.53822537989271,
+          "l": -87.53552572010727
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "2d43f097f7e2ac293725c4b1c0754e9345ef3469",
+    "name": "Skyway Doghouse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104716419378902678535/photos\">Ronald Smith</a>"
+        ],
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJrQ_FiwjYEYgRj4ezyWLXFAk",
+    "plus_code": {
+      "compound_code": "PFF7+76 Chicago, Illinois, USA",
+      "global_code": "86HJPFF7+76"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJrQ_FiwjYEYgRj4ezyWLXFAk",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 582,
+    "html_attributions": []
+  },
+  {
+    "formatted_address": "9917 S Ewing Ave, Chicago, IL 60617, USA",
+    "geometry": {
+      "location": {},
+      "viewport": {
+        "ma": {
+          "j": 41.71393717010727,
+          "l": 41.71663682989272
+        },
+        "ga": {
+          "j": -87.53650637989273,
+          "l": -87.5338067201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "318e5a6829a00fb4591ae44af0e07150bc270c7e",
+    "name": "Avys Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102392652679469211326/photos\">Marcelo Balcazar</a>"
+        ],
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJZaVkWwvYEYgR96MRhTRgUrQ",
+    "plus_code": {
+      "compound_code": "PF87+4X Chicago, Illinois, USA",
+      "global_code": "86HJPF87+4X"
+    },
+    "rating": 4.5,
+    "reference": "ChIJZaVkWwvYEYgR96MRhTRgUrQ",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "html_attributions": []
+  }
+]
